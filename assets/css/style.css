@@ -1715,7 +1715,7 @@ screen and (max-height:300px) {
 }
 @media (max-aspect-ratio: 16/9){
     .back-video{
-        width: 50%;
-        height: 50%;
+        width: 300px;
+        height: 300px;
     }
 }
