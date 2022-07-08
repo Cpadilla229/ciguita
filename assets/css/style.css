@@ -1706,3 +1706,16 @@ screen and (max-height:300px) {
         margin: 0;
     }
 }
+/*Video*/
+.back-video{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+@media (max-aspect-ratio: 16/9){
+    .back-video{
+        width: auto;
+        height: 100%;
+    }
+}
