@@ -1028,7 +1028,7 @@ fieldset[disabled] .form-control:focus {
 }
 
 #credits a {
-    color: inherit;
+    color: black;
 }
 
 #credits .social i {
