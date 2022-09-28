@@ -599,6 +599,7 @@ fieldset[disabled] .form-control:focus {
     -o-background-size: cover;
     background-size: cover;
     z-index: -100;
+    opacity: 20;
 }
 /*	Navbar	==================================================*/
 
