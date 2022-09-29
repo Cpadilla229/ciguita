@@ -180,7 +180,7 @@ img {
 }
 
 .whitecolor {
-    color: rgb(148, 54, 54);
+    color: #fff;
 }
 /*	Button & Label	==================================================*/
 
@@ -1426,7 +1426,7 @@ img.mfp-img {
 .mfp-title {
     text-align: left;
     line-height: 18px;
-    color: #201616;
+    color: #F3F3F3;
     word-wrap: break-word;
     padding-right: 36px;
 }
